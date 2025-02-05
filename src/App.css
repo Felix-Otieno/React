@@ -17,4 +17,26 @@
     font-size: 2rem;
     font-family: cursive;
 }
+
+.Avatar {
+    background-color: aqua;
+    border: 4rem solid green;
+    margin-top: 3rem;
+    padding: 3rem;
+    text-align: center;
+    font-size: 3rem;
+    color: blue;
+
+}
   
+.Picture {
+    margin-top: 3rem;
+    margin-left: 45rem;
+}
+
+.Picture > img {
+    width: 60%;
+    height: 200vh;
+    
+
+}
